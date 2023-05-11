@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class slide16 {
+public class silde16 {
 	public static void main(String[] args) {
 		ArrayList<String> arr=new  ArrayList<>();
 		arr.add("Ha");
